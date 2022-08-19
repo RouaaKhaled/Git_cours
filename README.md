@@ -1,4 +1,4 @@
-# Git_cours
+# Git_course
 
 ## Project 1
 
